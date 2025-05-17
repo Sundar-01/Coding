@@ -1,4 +1,4 @@
-package com.project.Task15;
+package com.project.Task14.Task15;
 
 public class Bird implements Flyable, Swimmable{
 
