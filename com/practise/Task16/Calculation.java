@@ -1,0 +1,7 @@
+package com.practise.Task16;
+
+public class Calculation {
+    public int dividor(int in1, int in2){
+        return in1/in2;
+    }
+}
